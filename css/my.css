@@ -389,7 +389,7 @@ body {
 /* ------------------------------------------------------------------------------------------------------------- */
 
 .customize {
-  background-image: url('./img/bg-customize.png');
+  background-image: url('../img/bg-customize.png');
   background-position: 0 0;
   background-repeat: no-repeat;
   background-size: cover;
